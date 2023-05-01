@@ -49,43 +49,43 @@ virtual reality, or 3D printing.
 
 ## Our Team
 
-We are a team of 7 young French developpers.
+We are a team of 7 young French developers.
 
 <p>
   <ul>
     <li>
       <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/AlexandreCALMELS.png" width="60px" align="center" />
-      <i>Alexandre CALMELS - I.A. developper & <strong>Project Leader</strong></i>
+      <i>Alexandre CALMELS - I.A. developer & <strong>Project Leader</strong></i>
       <p></p>
     </li>
     <li>
       <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/FlorianNANIA.png" width="60px" align="center" />
-      <i>Florian NANIA - I.A. developper</i>
+      <i>Florian NANIA - I.A. developer</i>
       <p></p>
     </li>
     <li>
       <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/TitouanSALLE.png" width="60px" align="center" />
-      <i>Titouan SALLE - I.A. developper</i>
+      <i>Titouan SALLE - I.A. developer</i>
       <p></p>
     </li>
     <li>
       <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/AntoinePHAMANIVANH.png" width="60px" align="center" />
-      <i>Antoine PHAMANIVANH - Front end developper</i>
+      <i>Antoine PHAMANIVANH - Front end developer</i>
       <p></p>
     </li>
     <li>
       <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/AdrienBONVALLET.png" width="60px" align="center" />
-      <i>Adrien BONVALLET - Back end developper</i>
+      <i>Adrien BONVALLET - Back end developer</i>
       <p></p>
     </li>
     <li>
       <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/JeremyROBERT.png" width="60px" align="center" />
-      <i>Jeremy ROBERT - Full stack developper</i>
+      <i>Jeremy ROBERT - Full stack developer</i>
       <p></p>
     </li>
     <li>
       <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/NicolasPETER.png" width="60px" align="center" />
-      <i>Nicolas PETER - Full stack developper</i>
+      <i>Nicolas PETER - Full stack developer</i>
       <p></p>
     </li>
   </ul>
