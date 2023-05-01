@@ -1,7 +1,7 @@
 <h1 align="center">PixaVox - A 3D Voxel generator</h1>
 
 <p align="center">
-  <img src="../assets/images/logos/pixavox/pixavox.svg" alt="pixavox-logo"
+  <img src="https://github.com/PixaVox/.github/blob/main/assets/images/logos/pixavox/pixavox.svg" alt="pixavox-logo"
     width="200px" height="auto" />
   <br>
   <i>PixaVox is an Epitech Innovative Project that aims to create an I.A.
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://international.epitech.eu/"><strong>by Epitech</strong></a>
   <br>
-  <img src="../assets/images/logos/epitech/epitech.png" alt="epitech-logo"
+  <img src="https://github.com/PixaVox/.github/blob/main/assets/images/logos/epitech/epitech.png" alt="epitech-logo"
     width="200px" height="auto" />
   <br>
   <br>
@@ -54,37 +54,37 @@ We are a team of 7 young French developpers.
 <p>
   <ul>
     <li>
-      <img src="../assets/images/contributors/AlexandreCALMELS.png" width="60px" align="center" />
+      <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/AlexandreCALMELS.png" width="60px" align="center" />
       <i>Alexandre CALMELS - I.A. developper & <strong>Project Leader</strong></i>
       <p></p>
     </li>
     <li>
-      <img src="../assets/images/contributors/FlorianNANIA.png" width="60px" align="center" />
+      <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/FlorianNANIA.png" width="60px" align="center" />
       <i>Florian NANIA - I.A. developper</i>
       <p></p>
     </li>
     <li>
-      <img src="../assets/images/contributors/TitouanSALLE.png" width="60px" align="center" />
+      <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/TitouanSALLE.png" width="60px" align="center" />
       <i>Titouan SALLE - I.A. developper</i>
       <p></p>
     </li>
     <li>
-      <img src="../assets/images/contributors/AntoinePHAMANIVANH.png" width="60px" align="center" />
+      <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/AntoinePHAMANIVANH.png" width="60px" align="center" />
       <i>Antoine PHAMANIVANH - Front end developper</i>
       <p></p>
     </li>
     <li>
-      <img src="../assets/images/contributors/AdrienBONVALLET.png" width="60px" align="center" />
+      <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/AdrienBONVALLET.png" width="60px" align="center" />
       <i>Adrien BONVALLET - Back end developper</i>
       <p></p>
     </li>
     <li>
-      <img src="../assets/images/contributors/JeremyROBERT.png" width="60px" align="center" />
+      <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/JeremyROBERT.png" width="60px" align="center" />
       <i>Jeremy ROBERT - Full stack developper</i>
       <p></p>
     </li>
     <li>
-      <img src="../assets/images/contributors/NicolasPETER.png" width="60px" align="center" />
+      <img src="https://github.com/PixaVox/.github/blob/main/assets/images/contributors/NicolasPETER.png" width="60px" align="center" />
       <i>Nicolas PETER - Full stack developper</i>
       <p></p>
     </li>
