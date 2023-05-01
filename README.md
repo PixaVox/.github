@@ -1,19 +1,3 @@
-<style>
-img[src$="#avatar"] {
-  display: block;
-  margin: 0 auto;
-  width: 200px;
-  height: 200px;
-  border-radius: 100px;
-}
-
-ul {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-</style>
-
 <h1 align="center">PixaVox - A 3D Voxel generator</h1>
 
 <p align="center">
@@ -68,34 +52,41 @@ virtual reality, or 3D printing.
 We are a team of 7 young French developpers.
 
 <p>
-  <ul>
+  <ul style="margin-bottom: 10px">
     <li>
       <img src="./assets/images/contributors/AlexandreCALMELS.png" width="60px" height="60px" align="center" />
       <i>Alexandre CALMELS - I.A. developper & <strong>Project Leader</strong></i>
+      <p></p>
     </li>
     <li>
       <img src="./assets/images/contributors/FlorianNANIA.png" width="60px" height="60px" align="center" />
       <i>Florian NANIA - I.A. developper</i>
+      <p></p>
     </li>
     <li>
       <img src="./assets/images/contributors/TitouanSALLE.png" width="60px" height="60px" align="center" />
       <i>Titouan SALLE - I.A. developper</i>
+      <p></p>
     </li>
     <li>
       <img src="./assets/images/contributors/AntoinePHAMANIVANH.png" width="60px" height="auto" align="center" />
       <i>Antoine PHAMANIVANH - Front end developper</i>
+      <p></p>
     </li>
     <li>
       <img src="./assets/images/contributors/AdrienBONVALLET.png" width="60px" align="center" />
       <i>Adrien BONVALLET - Back end developper</i>
+      <p></p>
     </li>
     <li>
       <img src="./assets/images/contributors/JeremyROBERT.png" width="60px" align="center" />
       <i>Jeremy ROBERT - Full stack developper</i>
+      <p></p>
     </li>
     <li>
       <img src="./assets/images/contributors/NicolasPETER.png" width="60px" align="center" />
       <i>Nicolas PETER - Full stack developper</i>
+      <p></p>
     </li>
   </ul>
 </p>
